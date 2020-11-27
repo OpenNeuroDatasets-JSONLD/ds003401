@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+func/sub-26_task-asrt_run-1_bold.nii.gz	2019-04-26T12:54:13	n/a	64ec287f
+func/sub-26_task-asrt_run-2_bold.nii.gz	2019-04-26T13:12:26	n/a	f2387d79
+func/sub-26_task-asrt_run-3_bold.nii.gz	2019-04-26T13:26:26	n/a	3a4f4380
+anat/sub-26_T1w.nii.gz	2019-04-26T14:05:06	n/a	eadea2b5
